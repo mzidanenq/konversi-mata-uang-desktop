@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\KonversiDuit\KonversiDuit\bin\Debug\KonversiDuit.exe.config
+C:\Users\admin\source\repos\KonversiDuit\KonversiDuit\bin\Debug\KonversiDuit.exe
+C:\Users\admin\source\repos\KonversiDuit\KonversiDuit\bin\Debug\KonversiDuit.pdb
+C:\Users\admin\source\repos\KonversiDuit\KonversiDuit\bin\Debug\MaterialSkin.dll
+C:\Users\admin\source\repos\KonversiDuit\KonversiDuit\obj\Debug\KonversiDuit.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\KonversiDuit\KonversiDuit\obj\Debug\KonversiDuit.Form1.resources
+C:\Users\admin\source\repos\KonversiDuit\KonversiDuit\obj\Debug\KonversiDuit.Properties.Resources.resources
+C:\Users\admin\source\repos\KonversiDuit\KonversiDuit\obj\Debug\KonversiDuit.csproj.GenerateResource.Cache
+C:\Users\admin\source\repos\KonversiDuit\KonversiDuit\obj\Debug\KonversiDuit.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\KonversiDuit\KonversiDuit\obj\Debug\KonversiDuit.exe
+C:\Users\admin\source\repos\KonversiDuit\KonversiDuit\obj\Debug\KonversiDuit.pdb
+C:\Users\admin\source\repos\KonversiDuit\KonversiDuit\obj\Debug\KonversiDuit.FORM_AWAL.resources
+C:\Users\admin\source\repos\KonversiDuit\KonversiDuit\obj\Debug\KonversiDuit.about.resources
+C:\Users\admin\source\repos\KonversiDuit\KonversiDuit\obj\Debug\KonversiDuit.info.resources
+C:\Users\admin\source\repos\KonversiDuit\KonversiDuit\obj\Debug\KonversiDuit.csproj.CopyComplete
